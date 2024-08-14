@@ -1,0 +1,1 @@
+This e-commerce website is designed using HTML and CSS, showcasing a clean and responsive front-end layout. It features a user-friendly interface, optimized for seamless navigation and an enhanced shopping experience. The codebase focuses solely on front-end development, highlighting design elements without any back-end functionality.
